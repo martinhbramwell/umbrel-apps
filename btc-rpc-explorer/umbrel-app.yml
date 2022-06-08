@@ -15,13 +15,13 @@ description: >-
 
 
   It's time to appreciate the "fullness" of your node.
-developer: Dan Janosik
+developer: Martin H. Bramwell
 website: https://explorer.btc21.org
 dependencies:
   - bitcoin
   - electrs
-repo: https://github.com/janoside/btc-rpc-explorer
-support: https://github.com/janoside/btc-rpc-explorer/discussions
+repo: https://github.com/martinhbramwell/btc-rpc-explorer
+support: https://github.com/martinhbramwell/btc-rpc-explorer/discussions
 port: 3002
 gallery:
   - 1.jpg
